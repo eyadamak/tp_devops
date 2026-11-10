@@ -17,5 +17,6 @@ public class Main {
         System.out.println(a + " / " + 0 + " = " +
         	Operation.division(a, 0));
 	System.out.println("Au revoir");
+	System.out.println("Bonsoir");
     }
 }
